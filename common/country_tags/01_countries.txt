@@ -1,0 +1,3 @@
+KOS	= "countries/Kosovo.txt"
+CRN	= "countries/Wales.txt"
+NTH	= "countries/Wales.txt"

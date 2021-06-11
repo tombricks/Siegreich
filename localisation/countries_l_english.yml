@@ -3159,3 +3159,9 @@
  vojvodina_DEF:0 "Vojvodina"
  vojvodina_ADJ:0 "Vojvodinian"
  
+ CRN:0 "Cornwall"
+ CRN_DEF:0 "Cornwall"
+ CRN_ADJ:0 "Cornish"
+ NTH:0 "Northern England"
+ NTH_DEF:0 "Northern England"
+ NTH_ADJ:0 "Northerner"

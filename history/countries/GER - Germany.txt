@@ -153,22 +153,30 @@ set_autonomy = {
 	target = IRE
 	autonomy_state = autonomy_puppet
 }
-#set_autonomy = {
-#	target = COR
-#	autonomy_state = autonomy_puppet
-#}
-#set_autonomy = {
-#	target = NTH
-#	autonomy_state = autonomy_puppet
-#}
+set_autonomy = {
+	target = CRN
+	autonomy_state = autonomy_puppet
+}
+set_autonomy = {
+	target = NTH
+	autonomy_state = autonomy_puppet
+}
+set_autonomy = {
+	target = NIR
+	autonomy_state = autonomy_puppet
+}
 set_autonomy = {
 	target = BEL
 	autonomy_state = autonomy_puppet
 }
-#set_autonomy = {
-#	target = SWE
-#	autonomy_state = autonomy_puppet
-#}
+set_autonomy = {
+	target = SWE
+	autonomy_state = autonomy_puppet
+}
+set_autonomy = {
+	target = FIN
+	autonomy_state = autonomy_puppet
+}
 #set_autonomy = {
 #	target = SOV
 #	autonomy_state = autonomy_puppet
